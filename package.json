@@ -1,17 +1,17 @@
 {
-  "name": "@ktsstudio/mediaproject-style",
-  "version": "4.0.0",
-  "description": "Package with common styles for media projects",
+  "name": "@ktsstudio/mediaproject-styled-components",
+  "version": "1.0.0",
+  "description": "Package with common mixins and animation for styled-components",
   "author": "KTS Studio <hello@ktsstudio.ru> (https://kts.studio)",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ktsstudio/mediaproject-style.git"
+    "url": "https://github.com/ktsstudio/mediaproject-styled-components.git"
   },
   "bugs": {
     "email": "hello@ktsstudio.ru",
-    "url": "https://github.com/ktsstudio/mediaproject-style/issues"
+    "url": "https://github.com/ktsstudio/mediaproject-styled-components/issues"
   },
-  "homepage": "https://github.com/ktsstudio/mediaproject-style#readme",
+  "homepage": "https://github.com/ktsstudio/mediaproject-styled-components#readme",
   "license": "MIT",
   "main": "./dist/cjs/index.js",
   "browser": "./dist/es/index.js",
