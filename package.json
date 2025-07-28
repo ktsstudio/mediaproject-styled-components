@@ -1,6 +1,6 @@
 {
-  "name": "@ktsstudio/mediaproject-styled-components",
-  "version": "1.0.0",
+  "name": "@kts-specials/mediaproject-styled-components",
+  "version": "1.0.1",
   "description": "Package with common mixins and animation for styled-components",
   "author": "KTS Studio <hello@ktsstudio.ru> (https://kts.studio)",
   "repository": {
@@ -10,6 +10,9 @@
   "bugs": {
     "email": "hello@ktsstudio.ru",
     "url": "https://github.com/ktsstudio/mediaproject-styled-components/issues"
+  },
+  "publishConfig": {
+    "registry": "https://nexus.team.ktsstudio.ru/repository/ktsnpm/"
   },
   "homepage": "https://github.com/ktsstudio/mediaproject-styled-components#readme",
   "license": "MIT",
