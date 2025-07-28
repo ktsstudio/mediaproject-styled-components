@@ -1,14 +1,14 @@
 ![kts](./logo.png)
 
-# @ktsstudio/mediaproject-styled-components
+# @kts-specials/mediaproject-styled-components
 
 Пакет с общими миксинами и анимациями на styled-components для медиапроектов.
 
 ## Использование
 
-`npm install @ktsstudio/mediaproject-styled-components`
+`npm install @kts-specials/mediaproject-styled-components`
 
-`yarn add @ktsstudio/mediaproject-styled-components`
+`yarn add @kts-specials/mediaproject-styled-components`
 
 ## Содержимое
 
@@ -20,7 +20,7 @@
 Чтобы использовать миксин или анимацию в проекте с styled-components, импортируйте нужный объект из библиотеки:
 
 ```typescript
-import { mixins } from '@ktsstudio/mediaproject-styled-components';
+import { mixins } from '@kts-specials/mediaproject-styled-components';
 
 ...
 

@@ -1,6 +1,6 @@
 {
   "name": "@kts-specials/mediaproject-styled-components",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Package with common mixins and animation for styled-components",
   "author": "KTS Studio <hello@ktsstudio.ru> (https://kts.studio)",
   "repository": {
