@@ -1,5 +1,4 @@
 import { fadeAnimation, appearAnimation } from './animations';
-import { markup, initMarkup, Markup } from './markup';
 import {
   mobile,
   desktop,
@@ -28,7 +27,6 @@ import {
   adaptiveSidePadding,
   adaptiveContentWidth,
 } from './mixins';
-import { WindowSize, MarkupConfig } from './types/markup';
 
 const mixins = {
   mobile,
@@ -64,6 +62,4 @@ const animations = {
   appearAnimation,
 };
 
-export { markup, initMarkup, Markup, mixins, animations };
-
-export { WindowSize, MarkupConfig };
+export { mixins, animations };
